@@ -16,8 +16,8 @@ h1 {
 }
 
 .welcome-box {
-    width: 25cm;
-    height: 25cm;
+    width: 15cm;
+    height: 15cm;
     border: 5px solid green;
     display: flex;
     justify-content: center;
